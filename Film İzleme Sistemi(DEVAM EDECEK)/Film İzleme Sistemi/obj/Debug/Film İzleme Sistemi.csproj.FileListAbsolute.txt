@@ -1,0 +1,22 @@
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.exe.config
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.exe
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.pdb
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film_İzleme_Sistemi.Form1.resources
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film_İzleme_Sistemi.Properties.Resources.resources
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.exe
+C:\Users\elifo\Desktop\Film İzleme Sistemi\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\bin\Debug\Film İzleme Sistemi.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film_İzleme_Sistemi.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film_İzleme_Sistemi.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.exe
+C:\Users\elifo\Desktop\PROJELERİM\Film İzleme Sistemi(DEVAM EDECEK)\Film İzleme Sistemi\obj\Debug\Film İzleme Sistemi.pdb
